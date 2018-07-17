@@ -1,0 +1,26 @@
+p {
+  color: #666664;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #F5A688;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  font-family: 22px;
+  color: #F5A688;
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  background-color: #FFFEFB;
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+form {
+  color: #F5A688;
+}
